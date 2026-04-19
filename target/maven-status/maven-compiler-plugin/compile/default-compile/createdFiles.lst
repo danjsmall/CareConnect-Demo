@@ -6,6 +6,7 @@ clientUI\doctor\DoctorPage.class
 clientUI\patient\HomeScreen.class
 clientUI\patient\VitalsScreen.class
 clientUI\patient\VoiceChatService.class
+clientUI\doctor\DoctorPage$PrescriptionData.class
 LoginSystem\LoginSystem$User.class
 clientUI\MainPage.class
 clientUI\patient\VoiceChatService$PatientContext.class
@@ -18,6 +19,7 @@ clientUI\patient\VoiceChatService$Vaccine.class
 LoginSystem\LoginSystem.class
 clientUI\patient\VoiceChatService$Appointment.class
 clientUI\patient\WeatherPage.class
+clientUI\doctor\DoctorPage$VaccineData.class
 clientUI\patient\AppointmentPage.class
 clientUI\patient\SettingsScreen.class
 APIhandlers\OpenStreetMap.class
@@ -26,6 +28,7 @@ clientUI\patient\MedsScreen.class
 clientUI\DashboardDataService$ConditionItem.class
 clientUI\Main.class
 clientUI\MessagingPage.class
+LoginSystem\TestDbSpeed.class
 clientUI\FXComponents.class
 clientUI\patient\RemindersPage.class
 LoginSystem\DatabaseManager.class
@@ -37,6 +40,7 @@ module-info.class
 clientUI\DashboardDataService$AppointmentItem.class
 clientUI\doctor\DoctorPage$PatientRow.class
 LoginSystem\DatabaseManager$UserRow.class
+clientUI\doctor\DoctorPage$ConditionData.class
 clientUI\patient\VoiceChatService$Condition.class
 clientUI\patient\VoiceChatService$DatabasePatientContextProvider.class
 clientUI\patient\VoiceChatPage.class

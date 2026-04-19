@@ -69,7 +69,7 @@
                     <archive>
                         <manifest>
                             <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
-                            <mainClass>LoginSystem.Main</mainClass>
+                            <mainClass>clientUI.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
